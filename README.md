@@ -27,7 +27,7 @@ Visit the live website here:
 
 [Portfolio](https://mikeh138.github.io/mhenson-responsive-portfolio/)  
 
-![Preview of portfolio website](preview.jpg)
+![Preview of portfolio website](./assets/images/preview.jpg)
 
 ## Credits
 
