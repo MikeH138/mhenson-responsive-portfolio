@@ -1,0 +1,8 @@
+.navbar-brand {
+    background-color: teal;
+}
+
+body {
+    background-image: url("../images/ocean-background.jpeg");
+    background-color: rgb(62, 172, 223);
+}
