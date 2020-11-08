@@ -7,36 +7,37 @@ This portfolio was made with bootstrap.
 
 It contains:
 
-    * Semantic HTML
+* Semantic HTML.  
 
-    * A responsive layout
+* A responsive layout.  
 
-    * Responsive images
+* Responsive images.  
 
-    * An about me page, which consists of a brief autobiography and an image of myself.
+* An about me page, which consists of a brief autobiography and an image of myself.  
 
-    * A page called Portfolio, which displays 5 photographs, a few of which were taken by myself.
+* A page called Portfolio, which displays 5 photographs, a few of which were taken by myself.  
 
-    * A contact page, which has a form with 2 text inputs (one for name, and one for email) as well as a textarea tag, where the user can type their message for me.
+* A contact page, which has a form with 2 text inputs (one for name, and one for email) as well as  < /br>
+a textarea tag, where the user can type their message for me.  
 
-    * Each page has the same navbar, with functional links.
+* Each page has the same navbar, with functional links.  
 
 ## Website
 
-Visit the live website here: 
+Visit the live website here:  
 
-[Portfolio](https://mikeh138.github.io/mhenson-responsive-portfolio/)
+[Portfolio](https://mikeh138.github.io/mhenson-responsive-portfolio/)  
 
 ## Credits
 
-Some images were used with permission from [Pexels](https://www.pexels.com/).
+Some images were used with permission from [Pexels](https://www.pexels.com/).  
 
 ## Code of Conduct
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)  
 
 ## License
 
-&copy; 2020 Mike Henson
+&copy; 2020 Mike Henson  
 
 Licensed under the [MIT](LICENSE.txt) license.
