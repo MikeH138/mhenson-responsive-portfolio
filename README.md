@@ -17,8 +17,7 @@ It contains:
 
 * A page called Portfolio, which displays 5 photographs, a few of which were taken by myself.  
 
-* A contact page, which has a form with 2 text inputs (one for name, and one for email) as well as  < /br>
-a textarea tag, where the user can type their message for me.  
+* A contact page, which has a form with 2 text inputs (one for name, and one for email) as well as a textarea tag, where the user can type their message for me.  
 
 * Each page has the same navbar, with functional links.  
 
