@@ -15,7 +15,7 @@ It contains:
 
 * An about me page, which consists of a brief autobiography and an image of myself.  
 
-* A page called Portfolio, which displays 5 photographs, a few of which were taken by myself.  
+* A page which showcases my first project, called No Waste Kitchen, a Day Planner app, and a Weather Dashboard app.
 
 * A contact page, which has a form with 2 text inputs (one for name, and one for email) as well as a textarea tag, where the user can type their message for me.  
 
@@ -31,7 +31,7 @@ Visit the live website here:
 
 ## Credits
 
-Some images were used with permission from [Pexels](https://www.pexels.com/).  
+No Waste Kitchen was a group project, built by Pete Izzo, Adriana Valdiglesias and myself.
 
 ## Code of Conduct
 
@@ -39,6 +39,6 @@ Some images were used with permission from [Pexels](https://www.pexels.com/).
 
 ## License
 
-&copy; 2020 Mike Henson  
+&copy; 2021 Mike Henson
 
 Licensed under the [MIT](LICENSE.txt) license.
