@@ -1,7 +1,6 @@
 body {
     background-image: url("../images/ocean-background.jpeg");
     background-color: rgb(62, 172, 223);
-    color: white;
 }
 
 .bord {
@@ -10,4 +9,8 @@ body {
 
 hr {
   background-color: white;
+}
+
+main {
+  color: white;
 }
