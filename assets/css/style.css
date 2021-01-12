@@ -1,9 +1,13 @@
 body {
     background-image: url("../images/ocean-background.jpeg");
     background-color: rgb(62, 172, 223);
+    color: white;
 }
 
 .bord {
   border: 0.125rem solid black;
 }
 
+hr {
+  background-color: white;
+}
