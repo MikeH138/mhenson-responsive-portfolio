@@ -13,7 +13,7 @@ It contains:
 
 * Responsive images.  
 
-* An about me page, which consists of a brief autobiography and an image of myself.  
+* An about me page, which consists of a brief autobiography, an image of myself, link to my resume and contact info.
 
 * A page which showcases my first project, called No Waste Kitchen, a Day Planner app, and a Weather Dashboard app.
 
